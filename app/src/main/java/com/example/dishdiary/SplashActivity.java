@@ -11,7 +11,7 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
 import com.airbnb.lottie.LottieAnimationView;
-
+//create splash screen
 public class SplashActivity extends AppCompatActivity {
 
     @Override
