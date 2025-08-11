@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(binding.getRoot());
 
 
-        // UI
+        // UI   is here
         // Obtaining reference from the fragment support manager
 //        mgr = getSupportFragmentManager();
 
