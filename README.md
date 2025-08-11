@@ -1,1 +1,1 @@
-hihhh
+create splash screen
